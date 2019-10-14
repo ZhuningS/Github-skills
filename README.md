@@ -36,3 +36,4 @@ guide
 
 抽象技术栈 + 具体细节实例术语  中文 英文术语
 
+![](https://i.loli.net/2019/10/14/YTKD8Lobgq72RWS.jpg)
